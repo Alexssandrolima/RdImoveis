@@ -1,0 +1,11 @@
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\bin\Debug\Rd_Imoveis.exe.config
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\bin\Debug\Rd_Imoveis.exe
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\bin\Debug\Rd_Imoveis.pdb
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.csprojResolveAssemblyReference.cache
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Properties.Resources.resources
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.View.FormPrincipal.resources
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.csproj.GenerateResource.Cache
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.exe
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.pdb
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Models.Clientes.FormClientes.resources
+C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Models.Imoveis.FormImoveis.resources
