@@ -9,3 +9,12 @@ C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Deb
 C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.pdb
 C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Models.Clientes.FormClientes.resources
 C:\ProjetosCshap\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Models.Imoveis.FormImoveis.resources
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Views.Clientes.FormClientes.resources
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Views.Imoveis.FormImoveis.resources
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Properties.Resources.resources
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Views.FormPrincipal.resources
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.Views.Usuarios.FormUsuarios.resources
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.csproj.GenerateResource.cache
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.csproj.CoreCompileInputs.cache
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.exe
+c:\ProjectsCsharpGit\Alexssandrolima\RdImoveis\ImoveisGerenciamentoAdministrativo\Rd_Imoveis\obj\Debug\Rd_Imoveis.pdb
